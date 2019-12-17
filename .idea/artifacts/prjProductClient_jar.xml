@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="prjProductClient:jar">
+    <output-path>D:/ceshi/订餐系统</output-path>
+    <root id="archive" name="prjProductClient.jar">
+      <element id="module-output" name="prjProductClient" />
+    </root>
+  </artifact>
+</component>
